@@ -17,6 +17,7 @@ Included;
 - multiple levels
 - walls light up when hit
 - several bouncing balls on menu screen
+- score tracker
 
 
 ## References
