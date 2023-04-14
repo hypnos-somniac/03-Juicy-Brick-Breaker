@@ -1,6 +1,7 @@
 extends Node
 
 var levels = [
+	
 	{
 		"name":"Level 1",
 		"instructions":"Break all the Bricks",
